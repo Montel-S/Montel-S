@@ -14,5 +14,6 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Montel
+[linkedin]: https://www.linkedin.com/in/montel-s/
+[indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend
 
