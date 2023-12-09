@@ -9,6 +9,14 @@
 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Montel-S/azure-network-protocols)
 
+
+
+
+- <b>Internal Security Audit</b>
+    - Security & Controls Risk Assesment 
+
+
+
 <h2>🤳Connect with me:</h2>
 
 
